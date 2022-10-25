@@ -1,7 +1,7 @@
 # WordPress Installed on Docker
 
 installing wordpress, mysql, phpmyadmin(to manage database)(optional)
-thena acessing everyting through a cloudflare tunnel securey without exposing any port 
+then acessing everyting through a cloudflare tunnel securey without exposing any port 
 
 **Note:** this only worls with TLDs(top level domain) like .com .org .tech it wont work with .ml .tk .cf domains
 
